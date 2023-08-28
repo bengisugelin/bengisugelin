@@ -1,5 +1,7 @@
 ### Hi there, I'm Bengi Su
 
+![header](https://github.com/bengisugelin/bengisugelin/blob/main/assests/git_header.png)
+
 I am a Software/Geomatics Engineer 👩‍💻. 
 
 My career path is currently focused on **DevOps** and  **GIS** technologies. I am always striving to improve my skills and expand my knowledge base. At the moment, I am focusing on my DevOps journey and absorbing as much as possible.
