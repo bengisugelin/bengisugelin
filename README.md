@@ -3,7 +3,10 @@
 ![Visits Badge](https://komarev.com/ghpvc/?username=bengisugelin&label=Visitors&color=0e75b6&style=flat)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/bengisu-gelin/) 
 
-I am a Software/Geomatics Engineer 👩‍💻. 
+
+Hey there 👋
+
+I am Su, a Software/Geomatics Engineer 👩‍💻. 
 
 My career path is currently focused on **DevOps** and  **GIS** technologies. I am always striving to improve my skills and expand my knowledge base. At the moment, I am focusing on my DevOps journey and absorbing as much as possible.
 
