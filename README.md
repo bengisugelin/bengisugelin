@@ -1,5 +1,7 @@
 ![header](https://github.com/bengisugelin/bengisugelin/blob/main/assests/header.png)
 
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=bengisugelin&label=Visitors&color=0e75b6&style=flat" alt="bengisugelin" /> </p>
+
 I am a Software/Geomatics Engineer 👩‍💻. 
 
 My career path is currently focused on **DevOps** and  **GIS** technologies. I am always striving to improve my skills and expand my knowledge base. At the moment, I am focusing on my DevOps journey and absorbing as much as possible.
@@ -48,10 +50,6 @@ Please feel free to browse my repositories and don't hesitate to reach out if yo
 
 
 
-
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=bengisugelin&label=Profile%20views&color=0e75b6&style=flat" alt="bengisugelin" /> </p>
-
-</p>
 
 
 
