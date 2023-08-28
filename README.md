@@ -2,7 +2,7 @@
 
 I am a Software/Geomatics Engineer 👩‍💻. 
 
-My career path is currently focused on **DevOps** engineering and **GIS**. I am always striving to improve my skills and expand my knowledge base. At the moment, I am focusing on my DevOps journey and absorbing as much as possible.
+My career path is currently focused on **DevOps** and  **GIS** technologies. I am always striving to improve my skills and expand my knowledge base. At the moment, I am focusing on my DevOps journey and absorbing as much as possible.
 
 Please feel free to browse my repositories and don't hesitate to reach out if you have any questions. Thank you for stopping by!
 
