@@ -1,8 +1,26 @@
-Greetings!
+### Hi there, I'm Bengi Su
 
-My name is Bengisu and I am a Software/Geomatics Engineer. 
+I am a Software/Geomatics Engineer 👩‍💻. 
 
-My career path is currently focused on DevOps engineering and GIS. I am always striving to improve my skills and expand my knowledge base. At the moment, I am focusing on my DevOps journey and absorbing as much as possible. Please feel free to browse my repositories and don't hesitate to reach out if you have any questions. Thank you for stopping by!
+My career path is currently focused on **DevOps** engineering and **GIS**. I am always striving to improve my skills and expand my knowledge base. At the moment, I am focusing on my DevOps journey and absorbing as much as possible.
+
+Please feel free to browse my repositories and don't hesitate to reach out if you have any questions. Thank you for stopping by!
+
+## Skills:
+
+#### Languages:
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)&nbsp;
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)&nbsp;
+![Shell Script](https://img.shields.io/badge/Shell_Script-121011?style=for-the-badge&logo=gnu-bash&logoColor=white)&nbsp;
+![LaTeX](https://img.shields.io/badge/latex-%23008080.svg?style=for-the-badge&logo=latex&logoColor=white)&nbsp;
+
+
+#### Database
+![MySQL](https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white)&nbsp;
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)&nbsp;
+![MongoDB](https://img.shields.io/badge/mongoDB-eac57e?style=for-the-badge&logo=mongodb)&nbsp;
+
+
 
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=bengisugelin&label=Profile%20views&color=0e75b6&style=flat" alt="bengisugelin" /> </p>
