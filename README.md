@@ -1,6 +1,6 @@
 ### Hi there, I'm Bengi Su
 
-![header](https://github.com/bengisugelin/bengisugelin/blob/main/assests/git_header.png)
+![header](https://github.com/bengisugelin/bengisugelin/blob/main/assests/header.png)
 
 I am a Software/Geomatics Engineer 👩‍💻. 
 
