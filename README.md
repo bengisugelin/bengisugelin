@@ -18,8 +18,8 @@ Please feel free to browse my repositories and don't hesitate to reach out if yo
 #### BACKEND
 
 ![SPRING](https://img.shields.io/badge/spring-282C34?style=for-the-badge&logo=spring)
-![MAVEN]()
-![MAVEN]()
+![MAVEN](https://img.shields.io/badge/maven-282C34?style=for-the-badge&logo=maven)
+![PGADMIN](https://img.shields.io/badge/pgadmin-316192?style=for-the-badge&logo=postgresql&logoColor=white)
 
 
 
