@@ -1,6 +1,7 @@
 ![header](https://github.com/bengisugelin/bengisugelin/blob/main/assests/header.png)
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=bengisugelin&label=Visitors&color=0e75b6&style=flat" alt="bengisugelin" /> </p>
+![Visits Badge](https://komarev.com/ghpvc/?username=bengisugelin&label=Visitors&color=0e75b6&style=flat)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/bengisu-gelin/) 
 
 I am a Software/Geomatics Engineer 👩‍💻. 
 
@@ -54,7 +55,7 @@ Please feel free to browse my repositories and don't hesitate to reach out if yo
 
 
 <!-- ## 🌐 Socials: -->
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/bengisu-gelin/) 
+
 
 
 ![](https://github-readme-streak-stats.herokuapp.com/?user=bengisugelin&theme=onedark&hide_border=false)<br/>
