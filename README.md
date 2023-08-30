@@ -78,9 +78,7 @@ Please feel free to browse my repositories and don't hesitate to reach out if yo
 
 
 <!-- ## 🌐 Socials: -->
-
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=bengisugelin&currStreakNum=57EBF0&ring=9E667B&fire=E7C695&sideNums=57EBF0&currStreakLabel=FFFFFF&dates=FFFFFF&excludeDaysLabel=FFFFFF&stroke=9E909C&sideLabels=FFFFFF&background=65%2C032B4E%2C57EBF0)](https://git.io/streak-stats)
-
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=bengisugelin&hide_border=true&border_radius=50&card_width=800&currStreakNum=57EBF0&ring=9E667B&fire=E7C695&sideNums=57EBF0&currStreakLabel=FFFFFF&dates=FFFFFF&excludeDaysLabel=FFFFFF&stroke=9E909C&sideLabels=FFFFFF&background=65%2C032B4E%2C57EBF0)](https://git.io/streak-stats)
 <!--
 
 # 💻 Tech Stack:
