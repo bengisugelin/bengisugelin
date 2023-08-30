@@ -10,6 +10,17 @@ I am Su, a Software/Geomatics Engineer 👩‍💻.
 
 My career path is currently focused on **DevOps** and  **GIS** technologies. I am always striving to improve my skills and expand my knowledge base. At the moment, I am focusing on my DevOps journey and absorbing as much as possible.
 
+--------------------------------
+
+What my Github profile doesn't tell you:
+
+I love challenges – they fuel my drive to find fresh perspectives in coding. Being a detail-focused mind, I find harmony in organizing the chaos of code, believing that elegance lies in precision.
+
+A team player at heart, I not only write code but also weave connections. My joy comes from enabling ideas to flow seamlessly, crafting an environment where collaboration breeds success.
+
+Beyond the screen, I'm an engineer who thrives on turning obstacles into innovation. Each line of code is a step toward a limitless future.
+
+---------------------------------
 Please feel free to browse my repositories and don't hesitate to reach out if you have any questions. Thank you for stopping by!
 
 ## Skills:
