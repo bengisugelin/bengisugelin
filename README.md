@@ -52,6 +52,8 @@ Please feel free to browse my repositories and don't hesitate to reach out if yo
 ![Vagrant](https://img.shields.io/badge/tool-vagrant-grey?style=for-the-badge&logo=vagrant&logoColor=white&labelColor=1B5990&color=EFF1F3)
 ![MAVEN](https://img.shields.io/badge/tool-maven-grey?style=for-the-badge&logo=maven&logoColor=white&labelColor=1B5990&color=EFF1F3)
 ![PGADMIN](https://img.shields.io/badge/tool-pgadmin-grey?style=for-the-badge&logo=postgresql&logoColor=white&labelColor=1B5990&color=EFF1F3)
+![EC2](https://img.shields.io/badge/Tool-EC2-grey?style=for-the-badge&logoColor=white&labelColor=1B5990&color=EFF1F3)
+
 
 
 <!-- ![Git]() -->
