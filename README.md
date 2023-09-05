@@ -52,6 +52,7 @@ Please feel free to browse my repositories and don't hesitate to reach out if yo
 ![Vagrant](https://img.shields.io/badge/tool-vagrant-grey?style=for-the-badge&logo=vagrant&logoColor=white&labelColor=1B5990&color=EFF1F3)&nbsp;
 ![MAVEN](https://img.shields.io/badge/tool-maven-grey?style=for-the-badge&logo=maven&logoColor=white&labelColor=1B5990&color=EFF1F3)&nbsp;
 ![PGADMIN](https://img.shields.io/badge/tool-pgadmin-grey?style=for-the-badge&logo=postgresql&logoColor=white&labelColor=1B5990&color=EFF1F3)&nbsp;
+
 ![EC2](https://img.shields.io/badge/Tool-EC2-grey?style=for-the-badge&logoColor=white&labelColor=1B5990&color=EFF1F3)&nbsp;
 ![AWS](https://img.shields.io/badge/tool-aws-grey?style=for-the-badge&logo=aws&logoColor=white&labelColor=1B5990&color=EFF1F3)&nbsp;
 
@@ -73,6 +74,8 @@ Please feel free to browse my repositories and don't hesitate to reach out if yo
 ![Intellij](https://img.shields.io/badge/IDE-intellij-grey?style=for-the-badge&logo=intellij&logoColor=white&labelColor=1B5990&color=EFF1F3)
 ![Android studio](https://img.shields.io/badge/IDE-Android%20studio-grey?style=for-the-badge&logo=android&logoColor=white&labelColor=1B5990&color=EFF1F3)
 ![Jupyter Notebook](https://img.shields.io/badge/IDE-jupyter-grey?style=for-the-badge&logo=jupyter&logoColor=white&labelColor=1B5990&color=EFF1F3)&nbsp;
+
+
 ![Visual Studio Code](https://img.shields.io/badge/IDE-Visual%20Studio-grey?style=for-the-badge&logo=Visual%20Studio&logoColor=white&labelColor=1B5990&color=EFF1F3)&nbsp;
 ![Vim](https://img.shields.io/badge/IDE-vim-grey?style=for-the-badge&logo=vim&logoColor=white&labelColor=1B5990&color=EFF1F3)&nbsp;
 
