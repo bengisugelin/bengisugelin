@@ -49,10 +49,14 @@ Please feel free to browse my repositories and don't hesitate to reach out if yo
 
 ![Linux](https://img.shields.io/badge/tool-linux-grey?style=for-the-badge&logo=linux&logoColor=white&labelColor=1B5990&color=EFF1F3)&nbsp;
 ![Git](https://img.shields.io/badge/tool-git-grey?style=for-the-badge&logo=git&logoColor=white&labelColor=1B5990&color=EFF1F3)&nbsp;
-![Vagrant](https://img.shields.io/badge/tool-vagrant-grey?style=for-the-badge&logo=vagrant&logoColor=white&labelColor=1B5990&color=EFF1F3)
-![MAVEN](https://img.shields.io/badge/tool-maven-grey?style=for-the-badge&logo=maven&logoColor=white&labelColor=1B5990&color=EFF1F3)
-![PGADMIN](https://img.shields.io/badge/tool-pgadmin-grey?style=for-the-badge&logo=postgresql&logoColor=white&labelColor=1B5990&color=EFF1F3)
-![EC2](https://img.shields.io/badge/Tool-EC2-grey?style=for-the-badge&logoColor=white&labelColor=1B5990&color=EFF1F3)
+![Vagrant](https://img.shields.io/badge/tool-vagrant-grey?style=for-the-badge&logo=vagrant&logoColor=white&labelColor=1B5990&color=EFF1F3)&nbsp;
+![MAVEN](https://img.shields.io/badge/tool-maven-grey?style=for-the-badge&logo=maven&logoColor=white&labelColor=1B5990&color=EFF1F3)&nbsp;
+![PGADMIN](https://img.shields.io/badge/tool-pgadmin-grey?style=for-the-badge&logo=postgresql&logoColor=white&labelColor=1B5990&color=EFF1F3)&nbsp;
+![EC2](https://img.shields.io/badge/Tool-EC2-grey?style=for-the-badge&logoColor=white&labelColor=1B5990&color=EFF1F3)&nbsp;
+![AWS](https://img.shields.io/badge/tool-aws-grey?style=for-the-badge&logo=aws&logoColor=white&labelColor=1B5990&color=EFF1F3)&nbsp;
+
+
+
 
 
 
