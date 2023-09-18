@@ -32,6 +32,7 @@ Please feel free to browse my repositories and don't hesitate to reach out if yo
 ![Shell Script](https://img.shields.io/badge/code-shell%20scripting-grey?style=for-the-badge&logoColor=white&labelColor=1B5990&color=EFF1F3)&nbsp;
 ![LaTeX](https://img.shields.io/badge/code-latex-grey?style=for-the-badge&logo=latex&logoColor=white&labelColor=1B5990&color=EFF1F3)&nbsp;
 ![SPRING](https://img.shields.io/badge/code-springboot-grey?style=for-the-badge&logo=spring&logoColor=white&labelColor=1B5990&color=EFF1F3)&nbsp;
+![JS](https://img.shields.io/badge/code-Javascript-grey?style=for-the-badge&logo=javascript&logoColor=white&labelColor=1B5990&color=EFF1F3)&nbsp;
 
 
 #### Database
