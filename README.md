@@ -33,7 +33,12 @@ Please feel free to browse my repositories and don't hesitate to reach out if yo
 ![LaTeX](https://img.shields.io/badge/code-latex-grey?style=for-the-badge&logo=latex&logoColor=white&labelColor=1B5990&color=EFF1F3)&nbsp;
 ![SPRING](https://img.shields.io/badge/code-springboot-grey?style=for-the-badge&logo=spring&logoColor=white&labelColor=1B5990&color=EFF1F3)&nbsp;  
 
-![JS](https://img.shields.io/badge/code-Javascript-grey?style=for-the-badge&logo=javascript&logoColor=white&labelColor=1B5990&color=EFF1F3)&nbsp;
+![JS](https://img.shields.io/badge/code-Javascript-grey?style=for-the-badge&logo=javascript&logoColor=white&labelColor=1B5990&color=EFF1F3)&nbsp; 
+![React](https://img.shields.io/badge/code-react-grey?style=for-the-badge&logo=react&logoColor=white&labelColor=1B5990&color=EFF1F3)&nbsp;
+![html](https://img.shields.io/badge/code-html-grey?style=for-the-badge&logo=html&logoColor=white&labelColor=1B5990&color=EFF1F3)&nbsp;
+![node](https://img.shields.io/badge/code-node-grey?style=for-the-badge&logo=node&logoColor=white&labelColor=1B5990&color=EFF1F3)&nbsp;
+
+
 
 
 #### Database
